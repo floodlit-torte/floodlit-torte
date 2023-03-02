@@ -1,7 +1,7 @@
 <h1 align="center">Hiya.</h1>
 <h3 align="center">White Hawk of Coding</h3>
-<img align="right" alt="text" width="400" src="https://tenor.com/en-GB/view/vibing-shintsumiki-shin-souhiyori-sou-gif-25732028">
-![text](https://user-images.githubusercontent.com/85862162/222473894-ba0e37d8-812d-4fbf-88e1-a7386f0f204a.jpg)
+<img align="right" alt="text" width="400" src="desktop/griffith.jpg">
+
 
 0.0%
 
