@@ -1,6 +1,6 @@
 <h1 align="center">Hiya.</h1>
 <h3 align="center">White Hawk of Coding</h3>
-<img align="right" alt="text" width="400" src="desktop/griffith.jpg">
+<img align="right" alt="Alt text" width="400" src="C:\Users\Алиби Аркей\Desktop\griffith.jpg">
 
 
 0.0%
