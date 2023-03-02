@@ -1,6 +1,6 @@
 <h1 align="center">Hiya.</h1>
 <h3 align="center">White Hawk of Coding</h3>
-<img align="right" alt="Coding" width="400" src="<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/fad698de81abf1f122ea815789e2d757/1ed9c10b867a1f1f-ca/s500x750/7ecc332ca2e0b210140d8f4b1ccfed85b0f7efb2.gifv">">
+<img align="right" alt="Coding" width="400" src="<img align="right" alt="Coding" width="400" <img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/shin-ai-dance-shin-ai-yttd-gif-24619093">
 
 - 🌱 I’m currently learning **C#, Unity**
 - 📫 How to reach me: **ihateflicknotes25@gmail.com**
